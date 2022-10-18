@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9662CD2A-4F98-4FC1-36F6-AD89AF9EB471}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AutomationReportTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
